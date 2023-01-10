@@ -1,4 +1,9 @@
 # Nft-Market
+
+### Backend, script and smart contract lies at [Nft-Market](https://github.com/amit-62/Nft-Market)
+### Frontend and UI lies at [Nft-frontend](https://github.com/amit-62/Nft-Market-GraphUI)
+### Subgraph protocol lies at [subgraph-Nft](https://github.com/amit-62/subgraph-Nft)
+
 ## Quickstart
 
 ```
